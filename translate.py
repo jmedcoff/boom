@@ -1,6 +1,6 @@
 import nltk
 import random
-import wordlogic
+from . import wordlogic
 
 
 grammatical_exclusions = ['RB', 'VBP', 'VBZ', 'IN', ',', '.', '?', '!']

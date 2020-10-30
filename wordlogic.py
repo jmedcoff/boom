@@ -20,7 +20,7 @@ word_type_to_boomhauerism_map = {
     'VBN': 'pre_participles'
 }
 
-with open('./boomhauerisms.yaml') as my_file:
+with open('./boom/boomhauerisms.yaml') as my_file:
     boom = yaml.load(my_file, Loader=yaml.FullLoader)
 
 def do_word_replacements(words):
