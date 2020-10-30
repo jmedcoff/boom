@@ -1,0 +1,54 @@
+sentence_starters:
+ - tell you what man
+ - I tell you what man
+ - talking bout
+ - yeah man
+
+sentence_enders:
+ - tell you what
+ - like that
+ - an whatnot
+
+general_interspersers:
+ - man
+
+
+adjectives:
+ - dang ol'
+ - talm' bout
+ - little ol'
+ - ol'
+ - good ol'
+ - big ol'
+ - that ol'
+ - one of them
+
+pre_present_verbs:
+ - an all
+ - dang ol'
+
+pre_past_verbs:
+ - an all
+ - dang ol'
+
+pre_participles:
+
+ - an all
+ - all dang
+ - dag nab
+
+direct_word_replacements:
+ - isn't:
+    - ain't
+    - ain't no
+
+ - wasn't:
+    - wudn't
+    - wudn't no
+
+ - going:
+    - gonna
+
+ - and:
+    - n
+
